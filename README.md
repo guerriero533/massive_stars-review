@@ -7,7 +7,7 @@
 ## Project Overview
 The project, a literature review on massive stellar evolution, examines the key aspects of the hydrostatic evolution of
 (single) massive stars, focusing on the effects of metallicity, stellar winds, and rotation. The work systematically compares stellar
-models across a grid of metallicities (**[Fe/H] = 0, −1, −2, −3**), initial rotation velocities (**v = 0, 150, 300 km/s**), and stellar wind efficiency factors (**η = [0.1, 1.0]**), based primarily on the model grids of _Limongi (2017)_ and _Woosley, Heger & Weaver (2002)_. It is also discussed how the three processes, as well as their interactions, influence the ultimate fate of massive stars. 
+models across a grid of metallicities (**[Fe/H] = 0, −1, −2, −3**), initial rotation velocities (**v = 0, 150, 300 km/s**), and stellar wind efficiency factors (**η = [0.1, 1.0]**), based primarily on the model grids of [_Limongi (2017)](https://doi.org/10.48550/arXiv.1706.01913)_ and [_Woosley, Heger & Weaver (2002)_](https://doi.org/10.1103/RevModPhys.74.1015). It is also discussed how the three processes, as well as their interactions, influence the ultimate fate of massive stars. 
 
 ## Structure
 - **Chapter 1**: Massive star evolution: hydrostatic equilibrium, mass loss, neutrino losses,

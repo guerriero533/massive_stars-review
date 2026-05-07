@@ -1,5 +1,8 @@
 # Evolution of Massive Stars: Metallicity, Stellar Winds & Rotation
-BSc Thesis at Padua University, supervised by Prof. Marigo (2023)
+**Author:** Francesco Guerriero  
+**Supervisors:** Prof. Marigo
+**Institution:** Padua University, Astronomy Department  
+**Degree:** BSc in Astronomy | Academic Year 2022/2023  
 
 ## Project Overview
 The project, a literature review on massive stellar evolution, examines the key aspects of the hydrostatic evolution of

@@ -39,14 +39,14 @@ If you wish to use this thesis or its content in any way, please cite:
 ```bibtex
 @thesis{Guerriero2023,
   author = {Guerriero, Francesco},
-  title = {Evoluzione di stelle massicce: {M}etallicità, {V}enti stellari e {R}otazione},
+  title = {Evolution of Massive Stars: {M}etallicity, {S}tellar Winds and {R}otation},
   school = {Università degli Studi di Padova},
   year = {2023},
   note = {BSc thesis in Astronomy}
 }
 ```
 Or in text form:
-_Guerriero, F. (2023). *Evoluzione di stelle massicce: Metallicità, Venti stellari e Rotazione*.
+_Guerriero, F. (2023). *Evolution of Massive Stars: Metallicity, Stellar Winds and Rotation*.
 BSc thesis, Università degli Studi di Padova._
 
 ---
